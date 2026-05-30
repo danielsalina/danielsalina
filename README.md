@@ -1,6 +1,6 @@
-### Hola, soy Daniel Salinas 👋
+## Hola, soy Daniel Salinas 👋
 
-## Venezolano 🇻🇪 viviendo en Argentina 🇦🇷.
+### Venezolano 🇻🇪 viviendo en Argentina 🇦🇷.
 
 **Senior Backend Developer & Tech Lead** en una fintech de Buenos Aires, Argentina.
 
