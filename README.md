@@ -1,9 +1,10 @@
 ### Hola, soy Daniel Salinas 👋
 
-**Senior Backend Developer & Tech Lead** en una fintech de Buenos Aires, Argentina.
-Venezolano 🇻🇪 viviendo en Argentina 🇦🇷.
+## Venezolano 🇻🇪 viviendo en Argentina 🇦🇷.
 
-Lidero el equipo de desarrollo en **[Cobro Inmediato](https://comunidad.cobroinmediato.tech)**,
+**Senior Backend Developer & Tech Lead** en una fintech de Buenos Aires, Argentina.
+
+Lidero el equipo de desarrollo en **[Cobro Inmediato]([https://comunidad.cobroinmediato.tech](https://cobroinmediato.tech/))**,
 pasarela de pagos que opera **más de 20.000 comercios en producción**. Mi foco está
 en arquitectura de microservicios, sistemas críticos de pago e integraciones con AFIP
 y múltiples pasarelas externas.
